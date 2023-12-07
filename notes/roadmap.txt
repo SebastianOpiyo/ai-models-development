@@ -1,0 +1,111 @@
+Online Courses:
+
+Coursera:
+	* Machine Learning by Andrew Ng: This is one of the most popular online courses on machine learning, and it is a great place to start if you are new to the field.
+	
+	* Deep Learning Specialization by Andrew Ng: This specialization builds on the Machine Learning course and covers more advanced topics in deep learning.
+	* Neural Networks for Machine Learning by Geoffrey Hinton: This course covers the theoretical foundations of neural networks, which are a key component of many machine learning models.
+
+
+Udacity:
+	* Intro to Machine Learning by Sebastian Thrun: This course is a good introduction to machine learning for beginners.
+	* Deep Learning Nanodegree: This nanodegree program covers the fundamentals of deep learning and includes hands-on projects.
+	* Fast.ai: Practical Deep Learning for Coders: This course is a fast-paced introduction to deep learning for experienced programmers.
+	* Natural Language Processing with Deep Learning: This course covers the fundamentals of natural language processing and how to use deep 	learning for NLP tasks.
+	* edX:
+	* Introduction to Machine Learning for Coders: This course is a good introduction to machine learning for programmers.
+	Machine Learning for Data Science: This course covers the fundamentals of machine learning and how to apply it to data science tasks.
+
+
+Books:
+	* Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron: This book is a comprehensive guide to building machine 	learning models with Python libraries like scikit-learn, Keras, and TensorFlow.
+	* Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville: This book is a classic textbook on deep learning and covers the 	theoretical foundations of the field.
+	* The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman: This book is a more advanced textbook on 	statistical learning, which is the foundation of many machine learning algorithms.
+
+
+Websites:
+	* Machine Learning Crash Course by Google AI: This website provides a series of interactive tutorials on building machine learning models 	with TensorFlow.
+	* Kaggle: Kaggle is a platform for data science competitions and includes a wealth of notebooks and tutorials on building machine learning 	models.
+	* KDNuggets: KDNuggets is a website that publishes articles, tutorials, and resources on machine learning and data science.
+	* Deeplearning.ai: Deeplearning.ai is a website by Andrew Ng that provides a variety of resources on deep learning, including courses, 	tutorials, and articles.
+
+
+Additional Tips:
+	* Start with the basics: Before you start building machine learning models, it is important to have a solid understanding of the underlying 	concepts. This includes topics like linear algebra, calculus, statistics, and probability theory.
+	* Get hands-on experience: The best way to learn about building machine learning models is to actually do it. There are many online 	resources that provide datasets and tutorials for building different types of models.
+	* Join the community: There are many online communities where you can connect with other people who are interested in machine learning. 	These communities can be a great source of support and advice.
+	* Don't be afraid to ask for help: If you are stuck on a problem, don't be afraid to ask for help from the community or from a more 	experienced person.
+	* The best learning resources for you will depend on your individual learning style and preferences. I recommend trying out a few different 	resources to see which ones you find most helpful.
+
+
+
+
+Roadmap for Learning How to Build AI Models from Scratch
+
+Estimated Time: 6-12 months (depending on your prior experience and learning pace)
+
+
+Prerequisites:
+
+	- Basic understanding of computer programming (Python is recommended)
+	- Familiarity with mathematics, including linear algebra, calculus, and statistics (optional, but highly recommended)
+
+
+Phase 1: Foundations (1-2 months)
+
+1. Learn Python:
+	* Online courses: Coursera - "Python for Everybody Specialization," edX - "Introduction to Computer Science and Programming Using Python"
+	* Books: "Automate the Boring Stuff with Python" by Al Sweigart, "Python Crash Course" by Eric Matthes
+
+2. Explore the AI Landscape:
+	* Books: "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig, "Deep Learning" by Ian Goodfellow, Yoshua Bengio, 	and Aaron Courville
+	* Online Resources: Google AI - "Machine Learning Crash Course," Stanford University - "CS229: Machine Learning"
+
+3. Mathematics for Machine Learning:
+	* Online courses: Khan Academy - "Linear Algebra" and "Calculus," 3Blue1Brown - "Essence of linear algebra"
+	* Books: "Mathematics for Machine Learning" by Marc Peter Deisenroth, "Linear Algebra Done Right" by Sheldon Axler
+
+
+Phase 2: Core Machine Learning (2-4 months)
+
+1. Machine Learning Fundamentals:
+	* Online courses: Coursera - "Machine Learning by Andrew Ng," Udacity - "Intro to Machine Learning," edX - "The Analytics Edge"
+	* Books: "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron, "The Elements of Statistical Learning" by 		Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+
+
+2. Hands-on Practice:
+	* Kaggle: Participate in machine learning competitions and access datasets and tutorials.
+	* OpenML: Explore and experiment with various machine learning algorithms.
+	* Personal Projects: Choose a project that interests you and implement a machine learning solution.
+
+
+
+Phase 3: Deep Learning specialization (3-6 months)
+
+1. Introduction to Deep Learning:
+
+	* Online courses: Coursera - "Deep Learning Specialization by Andrew Ng," Fast.ai - "Practical Deep Learning for Coders"
+	* Books: "Deep Learning with Python" by François Chollet, "Deep Learning Illustrated" by Jon Krohn, Tony Plate, and Wei Ding
+
+
+2. Advanced Topics:
+
+	* Natural Language Processing: Stanford University - "CS224n: Natural Language Processing with Deep Learning"
+	* Computer Vision: Coursera - "Computer Vision Specialization," Deeplearning.ai - "Computer Vision Nanodegree"
+	* Reinforcement Learning: OpenAI Gym - "Introduction to Reinforcement Learning"
+
+
+	Additional Resources:
+
+	- Blogs: Machine Learning Mastery, Distill, WildML
+	- Conferences: NeurIPS, ICLR, CVPR
+	- YouTube Channels: Two Minute Papers, Lex Fridman, Stanford CS231n
+
+
+Tips for Success:
+
+* Be consistent and patient: Learning AI takes time and effort. Don't get discouraged if you don't understand something immediately. Keep practicing and learning!
+* Find a learning style that works for you: Experiment with different resources and formats to find what helps you learn best.
+* Join the community: Connect with other people who are interested in AI. This can be a great way to get support, share ideas, and stay motivated.
+* Build projects: The best way to learn is by doing. Work on projects that interest you and apply the concepts you learn to real-world problems.
+**Remember, this is just a roadmap. There is no one-size-fits-all approach to learning AI. The most important thing is to be curious, persistent, and have
